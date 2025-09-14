@@ -109,41 +109,5 @@
     "summary_zh": "迈克·A·辛格关于向生命之流臣服的自传，记录随之而来的非凡人生旅程。",
     "best_quote_en": "\"The surrender experiment is about letting go of personal preferences and allowing life to unfold naturally.\"",
     "best_quote_zh": "“臣服实验的本质是放下个人好恶，让生命自然展开。”"
-},
-    {
-    "id": "a/116594710_505377",
-    "title": "Haruki Murakami | 67 Selected Quotes from 'What I Talk About When I Talk About Running'",
-    "title_zh": "村上春树 |《当我谈跑步时，我谈些什么》经典语录（67条）",
-    "source": "搜狐新闻（Sohu）",
-    "link": "https://www.sohu.com/a/116594710_505377",
-    "tags": ["文学", "跑步", "村上春树", "语录", "日本文学"],
-    "tags_zh": ["文学", "跑步", "村上春树", "语录", "日本文学"],
-    "date": "需补充发布日期（格式：YYYY-MM-DD）",
-    "summary_en": "A curated collection of 67 profound quotes from Haruki Murakami's memoir 'What I Talk About When I Talk About Running', revealing the author's philosophy on writing, running, and life persistence.",
-    "summary_zh": "精选村上春树回忆录《当我谈跑步时，我谈些什么》中的67条深刻语录，展现作家关于写作、跑步与人生坚持的哲学。",
-    "best_quote_en": "\"Pain is inevitable. Suffering is optional.\"",
-    "best_quote_zh": "「痛楚难以避免，而磨难可以选择。」",
-    "author": "需补充文章编者/记者",
-    "category": "文化/文学",
-    "quote_count": 67,
-    "book_info": {
-        "original_title": "走ることについて語るときに僕の語ること",
-        "publish_year": 2007,
-        "genre": "回忆录/随笔"
-    }，
-        {
-    "id": 1,
-    "title": "Classical Chinese Poetry",
-    "title_zh": "古典诗词",
-    "source": "古诗文网",
-    "link": "https://www.gushiwen.cn/shiwenv_09d31b73b44d.aspx",
-    "tags": ["Poetry", "Literature"],
-    "tags_zh": ["诗词", "文学"],
-    "date": "2024-03-20",
-    "summary_en": "A collection of classical Chinese poetry with annotations and appreciation.",
-    "summary_zh": "收录古典诗词作品，包含注释和赏析。",
-    "best_quote_en": "The beauty of Chinese poetry lies in its concise yet profound expression.",
-    "best_quote_zh": "中国诗词之美在于其言简意赅而意境深远。"
-},
-
+}
 ]
