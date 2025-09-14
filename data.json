@@ -25,5 +25,19 @@
     "summary_zh": "基层医疗机构诊治甲状腺功能减退症的临床实践指南。",
     "best_quote_en": "Early diagnosis and standardized treatment are crucial for managing hypothyroidism.",
     "best_quote_zh": "早期诊断和规范治疗对甲状腺功能减退症的管理至关重要。"
+},
+    {
+    "id": 3,
+    "title": "CSDN Technical Blog Article",
+    "title_zh": "CSDN技术博客文章",
+    "source": "CSDN",
+    "link": "https://blog.csdn.net/a18173352623/article/details/150063653",
+    "tags": ["Technology", "Programming"],
+    "tags_zh": ["技术", "编程"],
+    "date": "2023-07-15",
+    "summary_en": "A technical blog post discussing programming or IT-related topics on CSDN platform.",
+    "summary_zh": "CSDN平台上讨论编程或IT相关话题的技术博客文章",
+    "best_quote_en": "Sharing technical knowledge helps advance the developer community.",
+    "best_quote_zh": "技术知识分享有助于推动开发者社区进步"
 }
 ]
