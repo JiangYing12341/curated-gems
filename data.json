@@ -39,5 +39,33 @@
     "summary_zh": "CSDN平台上讨论编程或IT相关话题的技术博客文章",
     "best_quote_en": "Sharing technical knowledge helps advance the developer community.",
     "best_quote_zh": "技术知识分享有助于推动开发者社区进步"
+},
+    {
+    "id": 4,
+    "title": "CMT Endocrine Network Article",
+    "title_zh": "CMT内分泌频道文章",
+    "source": "CMT内分泌频道",
+    "link": "https://endo.cmt.com.cn/detail/1445709.html",
+    "tags": ["Medical", "Endocrinology"],
+    "tags_zh": ["医学", "内分泌学"],
+    "date": "2023-11-15",
+    "summary_en": "A medical article about endocrinology published on CMT medical platform.",
+    "summary_zh": "CMT医学平台发布的内分泌学相关医学文章",
+    "best_quote_en": "Advancements in endocrinology research contribute to better patient care.",
+    "best_quote_zh": "内分泌学研究进展有助于改善患者治疗"
+},
+    {
+    "id": 5,
+    "title": "我喜欢的网站",
+    "title_zh": "我喜欢的网站",
+    "source": "豆瓣读书",
+    "link": "https://book.douban.com/subject/34978407/",
+    "tags": ["互联网", "网站推荐"],
+    "tags_zh": ["互联网", "网站推荐"],
+    "date": "2024-01-01",
+    "summary_en": "A book introducing various interesting websites.",
+    "summary_zh": "一本介绍各类有趣网站的书籍。",
+    "best_quote_en": "The internet is full of hidden gems waiting to be discovered.",
+    "best_quote_zh": "互联网上充满了等待被发现的好东西。"
 }
 ]
