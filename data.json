@@ -131,45 +131,28 @@
         "publish_year": 2007,
         "genre": "回忆录/随笔"
     }，
-        {
-    "id": 123236,
-    "title": "Crossing the Single-Plank Bridge: From Assembly Line to Tech Giant",
-    "title_zh": "踏过独木桥：从流水线到大厂",
-    "source": "三联生活周刊",
-    "link": "https://www.lifeweek.com.cn/article/123236",
-    "tags": ["社会流动", "职业转型", "互联网行业", "蓝领工人"],
-    "tags_zh": ["社会流动", "职业转型", "互联网行业", "蓝领工人"],
-    "date": "需补充发布日期（格式：YYYY-MM-DD）",
-    "summary_en": "A deep dive into China's extraordinary career transitions, documenting how factory workers reinvent themselves as tech professionals through relentless upskilling.",
-    "summary_zh": "记录中国制造业工人通过技能提升，实现向互联网科技从业者跨越的非凡职业转型之路。",
-    "best_quote_en": "\"That assembly line taught me discipline, but coding set my mind free\" - Interviewee",
-    "best_quote_zh": "「流水线教会我纪律，而编程让我的思想获得自由」——受访者",
-    "key_findings": [
-        "转型成功者的平均技能学习时长：1800小时",
-        "主要转型方向：测试工程师/数据分析师",
-        "典型年龄区间：25-32岁"
-    ],
-    "case_studies": [
-        {
-            "name": "匿名案例A",
-            "origin": "东莞电子厂质检员",
-            "current": "杭州某大厂UI设计师",
-            "transition_period": "2.5年"
-        }
-    ],
-    "sociological_insights": {
-        "structural_factors": [
-            "职业教育体系改革",
-            "互联网行业人才缺口",
-            "新基建政策影响"
-        ],
-        "individual_traits": [
-            "高强度学习耐力",
-            "社群互助网络",
-            "风险承受能力"
-        ]
+    {
+    "id": "p/672887757",
+    "title": "专栏文章标题（需替换）",
+    "title_zh": "专栏文章中文标题（需替换）",
+    "source": "知乎专栏",
+    "link": "https://zhuanlan.zhihu.com/p/672887757",
+    "tags": ["科技", "互联网"],
+    "tags_zh": ["科技", "互联网"],
+    "date": "2024-01-01",
+    "summary_en": "In-depth analysis on [topic] from Zhihu's knowledge community, featuring professional insights and case studies.",
+    "summary_zh": "来自知乎知识社区的[领域]深度分析，包含专业观点与案例研究。",
+    "best_quote_en": "Key technical insight or thought-provoking statement...",
+    "best_quote_zh": "核心专业观点或发人深省的论述...",
+    "author": {
+        "name": "作者昵称（需替换）",
+        "badge": "行业认证标签（如：互联网从业者/博士）"
+    },
+    "engagement": {
+        "upvotes": "点赞数",
+        "comments": "评论数",
+        "bookmarks": "收藏数"
     }
 }
-        
         
 ]
