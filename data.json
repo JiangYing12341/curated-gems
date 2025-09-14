@@ -123,5 +123,19 @@
     "summary_zh": "文章探讨了中国基层干部面临的过多移动应用和数字化工具负担，呼吁改革以减少不必要的数字化工作负担。",
     "best_quote_en": "\"We must resolutely prevent the digital transformation from becoming a new form of formalism that burdens grassroots workers.\"",
     "best_quote_zh": "\"要坚决防止数字化转型异化为加重基层负担的新形式主义。\""
+},
+    {
+    "id": 2,
+    "title": "半月谈：警惕基层治理中的“痕迹主义”",
+    "title_zh": "半月谈：警惕基层治理中的“痕迹主义”",
+    "source": "半月谈",
+    "link": "http://www.banyuetan.org/pl/detail/20250909/1000200033136001757407972528312973_1.html",
+    "tags": ["基层治理", "形式主义"],
+    "tags_zh": ["基层治理", "形式主义"],
+    "date": "2025-09-09",
+    "summary_en": "The article analyzes the phenomenon of 'trace formalism' in grassroots governance, where excessive documentation and reporting requirements create unnecessary burdens for local officials.",
+    "summary_zh": "文章分析了基层治理中'痕迹主义'现象，即过度的文档记录和汇报要求给地方官员造成了不必要的负担。",
+    "best_quote_en": "\"We must shift from focusing on 'traces' to focusing on actual governance outcomes.\"",
+    "best_quote_zh": "\"必须从注重'痕迹'转向注重实际治理成效。\""
 }
 ]
