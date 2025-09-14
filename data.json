@@ -132,34 +132,27 @@
         "genre": "回忆录/随笔"
     }，
         {
-    "id": "796289805",
-    "title": "The Stronger Mindset",
-    "title_zh": "强者思维",
-    "source": "Scribd",
-    "link": "https://www.scribd.com/document/796289805/强者思维-高清版本",
-    "tags": ["心理学", "个人成长", "自我提升", "思维模式"],
-    "tags_zh": ["心理学", "个人成长", "自我提升", "思维模式"],
-    "date": "需补充发布日期（格式：YYYY-MM-DD）",
-    "summary_en": "A comprehensive guide to developing a stronger mindset, exploring the psychological principles and practical techniques for mental resilience and personal excellence.",
-    "summary_zh": "一本关于培养强者思维的全面指南，探讨心理韧性和个人卓越的心理原则和实践技巧。",
-    "best_quote_en": "\"The strong mind is not born, but forged through consistent practice and disciplined thinking.\"",
-    "best_quote_zh": "「强者思维不是与生俱来的，而是通过持续实践和自律思考锻造出来的。」",
-    "author": "需补充作者",
-    "category": "心理学/个人发展",
-    "pages": "需补充页数",
-    "file_type": "PDF",
-    "key_concepts": [
-        "心理韧性",
-        "成长型思维",
-        "情绪管理",
-        "决策能力"
-    ],
-    "target_audience": [
-        "职场人士",
-        "创业者",
-        "学生",
-        "自我提升追求者"
-    ]
+    "id": 669933909,
+    "title": "The Untethered Soul",
+    "title_zh": "不羁的灵魂：超越自我的旅程",
+    "source": "Scribd电子书",
+    "link": "https://www.scribd.com/document/669933909/迈克-辛格-不羁的灵魂-超越自我的旅程",
+    "tags": ["spirituality", "self-help"],
+    "tags_zh": ["灵性成长", "心理自助"],
+    "date": "需补充文档上传日期",
+    "summary_en": "Michael Singer's transformative guide to inner freedom, teaching how to release limiting thoughts and embrace pure consciousness.",
+    "summary_zh": "迈克·辛格关于内在自由的变革性指南，教导如何释放限制性思维并拥抱纯粹意识。",
+    "best_quote_en": "\"You are not the voice in your mind - you are the one who hears it.\"",
+    "best_quote_zh": "「你不是你脑海中的那个声音——你是听到那个声音的存在。」",
+    "core_concepts": {
+        "observer_self": "The distinction between thoughts and the awareness observing them",
+        "energy_management": "Releasing blocked emotional energy",
+        "present_moment": "Living in now without mental resistance"
+    },
+    "author_credentials": {
+        "name": "Michael A. Singer",
+        "expertise": "Spiritual teacher & founder of Temple of the Universe"
+    }
 }
-}
+        
 ]
