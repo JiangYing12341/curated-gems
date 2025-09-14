@@ -67,5 +67,19 @@
     "summary_zh": "一本介绍各类有趣网站的书籍。",
     "best_quote_en": "The internet is full of hidden gems waiting to be discovered.",
     "best_quote_zh": "互联网上充满了等待被发现的好东西。"
+},
+    {
+    "id": "j-3wlaBGJcrdZKpjylbFAw",
+    "title": "文章标题",
+    "title_zh": "文章标题",
+    "source": "微信公众号",
+    "link": "https://mp.weixin.qq.com/s/j-3wlaBGJcrdZKpjylbFAw",
+    "tags": ["标签1", "标签2"],
+    "tags_zh": ["标签1", "标签2"],
+    "date": "2024-01-01",
+    "summary_en": "English summary of the article content",
+    "summary_zh": "文章内容的中文摘要",
+    "best_quote_en": "Most notable English quote from the article",
+    "best_quote_zh": "文章中最值得引用的中文句子"
 }
 ]
