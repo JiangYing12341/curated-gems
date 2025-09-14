@@ -95,5 +95,19 @@
     "summary_zh": "文章的中文摘要（需替换）",
     "best_quote_en": "Key quote in English (if applicable)",
     "best_quote_zh": "文章中的关键引用（需替换）"
+},
+    {
+    "id": "586521336",
+    "title": "臣服实验-迈克·A辛格",
+    "title_zh": "臣服实验-迈克·A辛格",
+    "source": "Scribd/Z-Library",
+    "link": "https://www.scribd.com/document/586521336/臣服实验-迈克-A辛格-Z-lib-org",
+    "tags": ["心理学", "灵性成长", "自传"],
+    "tags_zh": ["心理学", "灵性成长", "自传"],
+    "date": "未知（需补充）",
+    "summary_en": "A memoir by Michael A. Singer about surrendering to life's flow and the unexpected journey that followed.",
+    "summary_zh": "迈克·A·辛格关于向生命之流臣服的自传，记录随之而来的非凡人生旅程。",
+    "best_quote_en": "\"The surrender experiment is about letting go of personal preferences and allowing life to unfold naturally.\"",
+    "best_quote_zh": "“臣服实验的本质是放下个人好恶，让生命自然展开。”"
 }
 ]
