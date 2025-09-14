@@ -131,28 +131,19 @@
         "publish_year": 2007,
         "genre": "回忆录/随笔"
     }，
-    {
-    "id": "p/672887757",
-    "title": "专栏文章标题（需替换）",
-    "title_zh": "专栏文章中文标题（需替换）",
-    "source": "知乎专栏",
-    "link": "https://zhuanlan.zhihu.com/p/672887757",
-    "tags": ["科技", "互联网"],
-    "tags_zh": ["科技", "互联网"],
-    "date": "2024-01-01",
-    "summary_en": "In-depth analysis on [topic] from Zhihu's knowledge community, featuring professional insights and case studies.",
-    "summary_zh": "来自知乎知识社区的[领域]深度分析，包含专业观点与案例研究。",
-    "best_quote_en": "Key technical insight or thought-provoking statement...",
-    "best_quote_zh": "核心专业观点或发人深省的论述...",
-    "author": {
-        "name": "作者昵称（需替换）",
-        "badge": "行业认证标签（如：互联网从业者/博士）"
-    },
-    "engagement": {
-        "upvotes": "点赞数",
-        "comments": "评论数",
-        "bookmarks": "收藏数"
-    }
-}
-        
+        {
+    "id": 1,
+    "title": "Classical Chinese Poetry",
+    "title_zh": "古典诗词",
+    "source": "古诗文网",
+    "link": "https://www.gushiwen.cn/shiwenv_09d31b73b44d.aspx",
+    "tags": ["Poetry", "Literature"],
+    "tags_zh": ["诗词", "文学"],
+    "date": "2024-03-20",
+    "summary_en": "A collection of classical Chinese poetry with annotations and appreciation.",
+    "summary_zh": "收录古典诗词作品，包含注释和赏析。",
+    "best_quote_en": "The beauty of Chinese poetry lies in its concise yet profound expression.",
+    "best_quote_zh": "中国诗词之美在于其言简意赅而意境深远。"
+},
+
 ]
