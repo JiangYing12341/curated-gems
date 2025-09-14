@@ -81,5 +81,19 @@
     "summary_zh": "文章内容的中文摘要",
     "best_quote_en": "Most notable English quote from the article",
     "best_quote_zh": "文章中最值得引用的中文句子"
+},
+    {
+    "id": "shiyi-20210412",
+    "title": "文章标题（需替换）",
+    "title_zh": "文章中文标题（需替换）",
+    "source": "GitHub Pages (mlycold)",
+    "link": "https://mlycold.github.io/2021/04/12/shiyi/",
+    "tags": ["标签1", "标签2"],
+    "tags_zh": ["标签1", "标签2"],
+    "date": "2021-04-12",
+    "summary_en": "English summary of the article (to be filled)",
+    "summary_zh": "文章的中文摘要（需替换）",
+    "best_quote_en": "Key quote in English (if applicable)",
+    "best_quote_zh": "文章中的关键引用（需替换）"
 }
 ]
