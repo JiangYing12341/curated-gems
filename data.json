@@ -12,5 +12,19 @@
     "summary_zh": "导演通过电影镜头揭示家庭和谐表象下的暗流，探讨新片《家庭简史》中呈现的心理复杂性。",
     "best_quote_en": "What appears as harmony often masks unspoken power dynamics - like invisible ink only visible under special light.",
     "best_quote_zh": "表面和谐常常掩盖着未言明的权力关系——就像特殊光线下方能显现的隐形墨水。"
-}
+},
+ {
+    "id": 13343140,
+    "title": "Aiming for Impossible Innovations, Shanghai Establishes an Artificial Intelligence 'Military Academy'",
+    "title_zh": "瞄准不可能的创新，上海“闯”出一座人工智能“黄埔军校”",
+    "source": "界面新闻",
+    "link": "https://www.jiemian.com/article/13343140.html",
+    "tags": ["artificial intelligence", "innovation", "education"],
+    "tags_zh": ["人工智能", "创新", "教育"],
+    "date": "2025-09-12",
+    "summary_en": "Shanghai has created a unique AI education model that combines education, industry, and innovation chains, aiming to cultivate cutting-edge AI talent.",
+    "summary_zh": "上海创建了一种独特的AI教育模式，将教育链、产业链和创新链高效结合，旨在培养前沿AI人才。",
+    "best_quote_en": "The Shanghai Intelligent Institute represents a bold step in AI education, untested but promising.",
+    "best_quote_zh": "上海创智学院在AI教育方面迈出了大胆的一步，虽未经验证，但前景可期。"
+},
 ]
