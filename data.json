@@ -1,15 +1,15 @@
 [{
-    "id": 1,
-    "title": "The Development of Chinese Literature in the New Era",
-    "title_zh": "新时代中国文学的发展",
-    "source": "中国作家网",
-    "link": "https://www.chinawriter.com.cn/n1/2025/0914/c404032-40563622.html",
-    "tags": ["literature", "China", "development"],
-    "tags_zh": ["文学", "中国", "发展"],
-    "date": "2025-09-14",
-    "summary_en": "This article discusses the development and achievements of Chinese literature in the new era, highlighting its cultural significance and global influence.",
-    "summary_zh": "本文探讨了新时代中国文学的发展与成就，强调了其文化意义和全球影响力。",
-    "best_quote_en": "Chinese literature is embracing the world with more confidence and diversity.",
-    "best_quote_zh": "中国文学正以更加自信和多元的姿态拥抱世界。"
+    "id": 2,
+    "title": "China's New AI Regulations: What You Need to Know",
+    "title_zh": "中国新AI法规：你需要知道的内容",
+    "source": "界面新闻",
+    "link": "https://www.jiemian.com/article/13330435.html",
+    "tags": ["AI", "Regulation", "China"],
+    "tags_zh": ["人工智能", "监管", "中国"],
+    "date": "2024-03-20",
+    "summary_en": "The article discusses China's latest AI regulations, focusing on their impact on tech companies and AI development.",
+    "summary_zh": "文章讨论了中国最新的人工智能法规，重点关注其对科技公司和AI发展的影响。",
+    "best_quote_en": "The new rules represent China's effort to balance innovation with risk control in the fast-growing AI sector.",
+    "best_quote_zh": "新规体现了中国在快速发展的AI领域平衡创新与风险控制的努力。"
 },
 ]
