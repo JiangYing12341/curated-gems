@@ -54,19 +54,19 @@
     "best_quote_en": "Advancements in endocrinology research contribute to better patient care.",
     "best_quote_zh": "内分泌学研究进展有助于改善患者治疗"
 },
-    {
-    "id": 5,
-    "title": "我喜欢的网站",
-    "title_zh": "我喜欢的网站",
-    "source": "豆瓣读书",
-    "link": "https://book.douban.com/subject/34978407/",
-    "tags": ["互联网", "网站推荐"],
-    "tags_zh": ["互联网", "网站推荐"],
-    "date": "2024-01-01",
-    "summary_en": "A book introducing various interesting websites.",
-    "summary_zh": "一本介绍各类有趣网站的书籍。",
-    "best_quote_en": "The internet is full of hidden gems waiting to be discovered.",
-    "best_quote_zh": "互联网上充满了等待被发现的好东西。"
+  {
+    "id": 7,
+    "title": "The 8th National Young Writers Creation Conference Concludes Successfully",
+    "title_zh": "第八届全国青年作家创作会议圆满落幕",
+    "source": "China Writer (中国作家网)",
+    "link": "https://www.chinawriter.com.cn/n1/2025/0812/c405057-40540972.html",
+    "tags": ["Literature", "Young Writers", "Writing Conference"],
+    "tags_zh": ["文学", "青年作家", "创作会议"],
+    "date": "2025-08-12",
+    "summary_en": "The 8th National Young Writers Creation Conference brought together emerging literary talents to discuss creative writing and the future of Chinese literature.",
+    "summary_zh": "第八届全国青年作家创作会议汇聚文坛新锐，共同探讨文学创作与中国文学的未来发展。",
+    "best_quote_en": "This conference has become an important platform for discovering and nurturing the next generation of Chinese literary talents.",
+    "best_quote_zh": "本次会议已成为发现和培养中国文学新生力量的重要平台。"
 },
     {
     "id": 2,
@@ -138,18 +138,18 @@
     "best_quote_en": "\"We must shift from focusing on 'traces' to focusing on actual governance outcomes.\"",
     "best_quote_zh": "\"必须从注重'痕迹'转向注重实际治理成效。\""
 },
-    {
-    "id": 4,
-    "title": "Vintage Americana: Diner Entrance with Patriotic Decor",
-    "title_zh": "复古美国风：装饰国旗的餐厅入口",
-    "source": "Unsplash",
-    "link": "https://unsplash.com/photos/diner-entrance-with-american-flag-decorations-xpdK-F3OU4E",
-    "tags": ["Photography", "Americana", "Vintage"],
-    "tags_zh": ["摄影", "美国风", "复古"],
-    "date": "2023-11-22",
-    "summary_en": "A striking photograph capturing the nostalgic charm of a classic American diner entrance adorned with patriotic flag decorations.",
-    "summary_zh": "一张引人注目的照片，捕捉了装饰着爱国旗帜的经典美式餐厅入口的怀旧魅力。",
-    "best_quote_en": "The image perfectly encapsulates mid-20th century American roadside culture.",
-    "best_quote_zh": "这张照片完美呈现了20世纪中期美国路边餐厅文化的精髓。"
+   {
+    "id": 6,
+    "title": "Emerging Voices in Chinese Literature: 2025 New Writers Forum",
+    "title_zh": "中国文学新声：2025年新锐作家论坛",
+    "source": "China Writer (中国作家网)", 
+    "link": "https://www.chinawriter.com.cn/n1/2025/0914/c404032-40563622.html",
+    "tags": ["Literature", "New Writers", "Literary Forum"],
+    "tags_zh": ["文学", "新锐作家", "文学论坛"],
+    "date": "2025-09-14",
+    "summary_en": "Highlights from the 2025 New Writers Forum showcasing breakthrough talents and innovative narrative techniques in contemporary Chinese literature.",
+    "summary_zh": "2025年新锐作家论坛精彩回顾，展现中国当代文学突破性新秀和创新叙事手法。",
+    "best_quote_en": "These young writers are redefining Chinese literature with bold experimentation and cross-cultural perspectives.",
+    "best_quote_zh": "这些年轻作家正用大胆的实验精神和跨文化视角重新定义中国文学。"
 },
 ]
