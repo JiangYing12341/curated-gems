@@ -1,17 +1,15 @@
 [{
     "id": 1,
-    "title": "Classical Chinese Poetry",
-    "title_zh": "古典诗词",
-    "source": "古诗文网",
-    "link": "https://www.gushiwen.cn/shiwenv_09d31b73b44d.aspx",
-    "tags": ["Poetry", "Literature"],
-    "tags_zh": ["诗词", "文学"],
-    "date": "2024-03-20",
-    "summary_en": "A collection of classical Chinese poetry with annotations and appreciation.",
-    "summary_zh": "收录古典诗词作品，包含注释和赏析。",
-    "best_quote_en": "The beauty of Chinese poetry lies in its concise yet profound expression.",
-    "best_quote_zh": "中国诗词之美在于其言简意赅而意境深远。"
+    "title": "The Development of Chinese Literature in the New Era",
+    "title_zh": "新时代中国文学的发展",
+    "source": "中国作家网",
+    "link": "https://www.chinawriter.com.cn/n1/2025/0914/c404032-40563622.html",
+    "tags": ["literature", "China", "development"],
+    "tags_zh": ["文学", "中国", "发展"],
+    "date": "2025-09-14",
+    "summary_en": "This article discusses the development and achievements of Chinese literature in the new era, highlighting its cultural significance and global influence.",
+    "summary_zh": "本文探讨了新时代中国文学的发展与成就，强调了其文化意义和全球影响力。",
+    "best_quote_en": "Chinese literature is embracing the world with more confidence and diversity.",
+    "best_quote_zh": "中国文学正以更加自信和多元的姿态拥抱世界。"
 },
-
-   
 ]
