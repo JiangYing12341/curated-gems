@@ -81,20 +81,20 @@
     "summary_zh": "雷峰网对尖端机器人技术的深度分析，包含专家访谈和未来展望。",
     "best_quote_en": "The next decade will see robotics transcend industrial applications to become ubiquitous in daily life.",
     "best_quote_zh": "未来十年，机器人技术将超越工业应用，在日常生活中无处不在。"
-}
+},
     {
-    "id": "shiyi-20210412",
-    "title": "文章标题（需替换）",
-    "title_zh": "文章中文标题（需替换）",
-    "source": "GitHub Pages (mlycold)",
-    "link": "https://mlycold.github.io/2021/04/12/shiyi/",
-    "tags": ["标签1", "标签2"],
-    "tags_zh": ["标签1", "标签2"],
-    "date": "2021-04-12",
-    "summary_en": "English summary of the article (to be filled)",
-    "summary_zh": "文章的中文摘要（需替换）",
-    "best_quote_en": "Key quote in English (if applicable)",
-    "best_quote_zh": "文章中的关键引用（需替换）"
+    "id": 3,
+    "title": "Art Meets Technology: A Revolutionary Exhibition at Meishujia",
+    "title_zh": "艺术与科技的碰撞：美术家网重磅展览",
+    "source": "Meishujia (美术家网)",
+    "link": "http://news.meishujia.cn/?act=app&appid=4096&mid=104857&p=view",
+    "tags": ["Art Exhibition", "Digital Art", "Innovation"],
+    "tags_zh": ["艺术展览", "数字艺术", "创新"],
+    "date": "2024-03-10",
+    "summary_en": "Meishujia showcases a groundbreaking exhibition where traditional art forms merge with cutting-edge digital technologies.",
+    "summary_zh": "美术家网呈现突破性展览，展示传统艺术形式与前沿数字技术的融合。",
+    "best_quote_en": "This exhibition redefines the boundaries between brushstrokes and algorithms.",
+    "best_quote_zh": "本次展览重新定义了笔触与算法之间的界限。"
 },
     {
     "id": "586521336",
