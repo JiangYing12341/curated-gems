@@ -12,7 +12,7 @@
     "summary_zh": "导演通过电影镜头揭示家庭和谐表象下的暗流，探讨新片《家庭简史》中呈现的心理复杂性。",
     "best_quote_en": "What appears as harmony often masks unspoken power dynamics - like invisible ink only visible under special light.",
     "best_quote_zh": "表面和谐常常掩盖着未言明的权力关系——就像特殊光线下方能显现的隐形墨水。"
-}
+},
 {
     "id": 13342606,
     "title": "The Eroticized Adaptation of 'Wuthering Heights': Turning a Classic into a Love Farce? | Culture Weekly",
@@ -26,5 +26,19 @@
     "summary_zh": "本文通过文本忠实度、女性主义叙事学和遗产商业化三重维度，解构2025年改编版的情色化处理争议。",
     "best_quote_en": "The moors' spiritual desolation now serves as mere backdrop for bodice-ripping scenes - a fundamental misreading of Brontë's ecological unconscious.",
     "best_quote_zh": "荒原的精神荒芜如今沦为撕扯衣襟戏码的背景板——这从根本上误读了勃朗特的生态无意识。"
-}
+},
+ {
+    "id": 40563622,
+    "title": "Xu Lu: Where Is the Enthusiasm for Writing?",
+    "title_zh": "徐鲁：写作的热情何在",
+    "source": "中国作家网",
+    "link": "https://www.chinawriter.com.cn/n1/2025/0914/c404032-40563622.html",
+    "tags": ["writing", "enthusiasm", "inspiration"],
+    "tags_zh": ["写作", "热情", "灵感"],
+    "date": "2025-09-14",
+    "summary_en": "Xu Lu reflects on the enduring passion for writing, exploring the sources of inspiration and the challenges faced by authors in maintaining their creative drive.",
+    "summary_zh": "徐鲁反思写作的持久热情，探讨作者的灵感来源以及在保持创作动力方面所面临的挑战。",
+    "best_quote_en": "The flame of writing passion must be constantly fanned to keep it burning brightly.",
+    "best_quote_zh": "写作的热情之火必须不断煽动，才能保持其明亮燃烧。"
+},
 ]
