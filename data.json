@@ -83,18 +83,18 @@
     "best_quote_zh": "未来十年，机器人技术将超越工业应用，在日常生活中无处不在。"
 },
    {
-    "id": 5,
-    "title": "Literary Perspectives: Contemporary Chinese Writers' Symposium 2025",
-    "title_zh": "文学视角：2025年中国当代作家研讨会",
+    "id": 8,
+    "title": "Literary Innovation and Exploration: Highlights from the 2025 Young Writers Forum",
+    "title_zh": "文学创新与探索：2025青年作家论坛纪实",
     "source": "China Writer (中国作家网)",
-    "link": "https://www.chinawriter.com.cn/n1/2025/0914/c404030-40563620.html",
-    "tags": ["Literature", "Symposium", "Chinese Writers"],
-    "tags_zh": ["文学", "研讨会", "中国作家"],
-    "date": "2025-09-14",
-    "summary_en": "Coverage of the prestigious 2025 Chinese Writers Symposium featuring discussions on contemporary literary trends and creative processes.",
-    "summary_zh": "关于2025年中国作家研讨会的报道，探讨当代文学趋势与创作过程。",
-    "best_quote_en": "The symposium revealed how Chinese literature is evolving to address global themes while maintaining cultural authenticity.",
-    "best_quote_zh": "研讨会揭示了中国文学如何在保持文化本真性的同时，发展出应对全球主题的新方向。"
+    "link": "https://www.chinawriter.com.cn/n1/2025/0914/c404032-40563622.html",
+    "tags": ["Literature", "Young Writers", "Literary Forum", "Innovation"],
+    "tags_zh": ["文学", "青年作家", "文学论坛", "创新"],
+    "date": "2025-09-14", 
+    "summary_en": "An in-depth report on the 2025 Young Writers Forum, featuring discussions on experimental writing techniques and the evolving landscape of contemporary Chinese literature.",
+    "summary_zh": "关于2025青年作家论坛的深度报道，聚焦实验性写作技巧和中国当代文学发展新趋势的探讨。",
+    "best_quote_en": "The forum demonstrated how young writers are blending traditional Chinese storytelling with modern narrative forms to create groundbreaking works.",
+    "best_quote_zh": "论坛展现了青年作家如何将中国传统叙事与现代文学形式相融合，创作出突破性的作品。"
 },
     {
     "id": "586521336",
