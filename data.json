@@ -1,4 +1,5 @@
-[{
+[
+    {
     "id": 13343140,
     "title": "Aiming for Impossible Innovations, Shanghai Establishes an Artificial Intelligence 'Military Academy'",
     "title_zh": "瞄准不可能的创新，上海“闯”出一座人工智能“黄埔军校”",
@@ -11,5 +12,19 @@
     "summary_zh": "上海创建了一种独特的AI教育模式，将教育链、产业链和创新链高效结合，旨在培养前沿AI人才。",
     "best_quote_en": "The Shanghai Intelligent Institute represents a bold step in AI education, untested but promising.",
     "best_quote_zh": "上海创智学院在AI教育方面迈出了大胆的一步，虽未经验证，但前景可期。"
+},
+    {
+    "id": 13330435,
+    "title": "The Harmony Among Family Members Has Its Disturbing Aspects | Interview with the Director of 'A Brief History of Family'",
+    "title_zh": "家人之间的和谐，有细思极恐的地方｜《家庭简史》导演专访",
+    "source": "界面新闻",
+    "link": "https://www.jiemian.com/article/13330435.html",
+    "tags": ["film", "interview", "psychology"],
+    "tags_zh": ["电影", "专访", "心理学"],
+    "date": "2025-09-12",
+    "summary_en": "The director reveals the hidden tensions beneath familial harmony through cinematic lens, discussing the psychological complexities portrayed in his new film 'A Brief History of Family'.",
+    "summary_zh": "导演通过电影镜头揭示家庭和谐表象下的暗流，探讨新片《家庭简史》中呈现的心理复杂性。",
+    "best_quote_en": "What appears as harmony often masks unspoken power dynamics - like invisible ink only visible under special light.",
+    "best_quote_zh": "表面和谐常常掩盖着未言明的权力关系——就像特殊光线下方能显现的隐形墨水。"
 },
 ]
