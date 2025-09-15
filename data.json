@@ -69,19 +69,19 @@
     "best_quote_zh": "互联网上充满了等待被发现的好东西。"
 },
     {
-    "id": "j-3wlaBGJcrdZKpjylbFAw",
-    "title": "文章标题",
-    "title_zh": "文章标题",
-    "source": "微信公众号",
-    "link": "https://mp.weixin.qq.com/s/j-3wlaBGJcrdZKpjylbFAw",
-    "tags": ["标签1", "标签2"],
-    "tags_zh": ["标签1", "标签2"],
-    "date": "2024-01-01",
-    "summary_en": "English summary of the article content",
-    "summary_zh": "文章内容的中文摘要",
-    "best_quote_en": "Most notable English quote from the article",
-    "best_quote_zh": "文章中最值得引用的中文句子"
-},
+    "id": 2,
+    "title": "Exploring the Future of Robotics: Key Insights from Leiphone's Latest Feature",
+    "title_zh": "探索机器人技术的未来：雷峰网最新专题的核心洞察",
+    "source": "Leiphone (雷峰网)",
+    "link": "https://www.leiphone.com/category/robot/kNIlm3msbaqd3ksJ.html",
+    "tags": ["Robotics", "Technology Trends", "AI"],
+    "tags_zh": ["机器人技术", "科技趋势", "人工智能"],
+    "date": "2024-03-15",
+    "summary_en": "Leiphone's in-depth analysis on cutting-edge robotics developments, featuring expert interviews and future projections.",
+    "summary_zh": "雷峰网对尖端机器人技术的深度分析，包含专家访谈和未来展望。",
+    "best_quote_en": "The next decade will see robotics transcend industrial applications to become ubiquitous in daily life.",
+    "best_quote_zh": "未来十年，机器人技术将超越工业应用，在日常生活中无处不在。"
+}
     {
     "id": "shiyi-20210412",
     "title": "文章标题（需替换）",
