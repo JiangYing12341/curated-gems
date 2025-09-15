@@ -1,15 +1,16 @@
-[{
-    "id": 2,
-    "title": "China's New AI Regulations: What You Need to Know",
-    "title_zh": "中国新AI法规：你需要知道的内容",
+[
+ {
+    "id": 13330435,
+    "title": "The Harmony Among Family Members Has Its Disturbing Aspects | Interview with the Director of 'A Brief History of Family'",
+    "title_zh": "家人之间的和谐，有细思极恐的地方｜《家庭简史》导演专访",
     "source": "界面新闻",
     "link": "https://www.jiemian.com/article/13330435.html",
-    "tags": ["AI", "Regulation", "China"],
-    "tags_zh": ["人工智能", "监管", "中国"],
-    "date": "2024-03-20",
-    "summary_en": "The article discusses China's latest AI regulations, focusing on their impact on tech companies and AI development.",
-    "summary_zh": "文章讨论了中国最新的人工智能法规，重点关注其对科技公司和AI发展的影响。",
-    "best_quote_en": "The new rules represent China's effort to balance innovation with risk control in the fast-growing AI sector.",
-    "best_quote_zh": "新规体现了中国在快速发展的AI领域平衡创新与风险控制的努力。"
-},
+    "tags": ["film", "interview", "psychology"],
+    "tags_zh": ["电影", "专访", "心理学"],
+    "date": "2025-09-12",
+    "summary_en": "The director reveals the hidden tensions beneath familial harmony through cinematic lens, discussing the psychological complexities portrayed in his new film 'A Brief History of Family'.",
+    "summary_zh": "导演通过电影镜头揭示家庭和谐表象下的暗流，探讨新片《家庭简史》中呈现的心理复杂性。",
+    "best_quote_en": "What appears as harmony often masks unspoken power dynamics - like invisible ink only visible under special light.",
+    "best_quote_zh": "表面和谐常常掩盖着未言明的权力关系——就像特殊光线下方能显现的隐形墨水。"
+}
 ]
