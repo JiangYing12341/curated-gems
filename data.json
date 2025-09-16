@@ -96,5 +96,19 @@
   "summary_zh": "本文整合专业建议与真实案例，提出女性独行的核心策略：1）行前通过[3]()强调的安全预案（如分享行程、领事备案）；2）选择设施完善的住宿与交通[2]()；3）通过独行实现自我重塑与心灵对话（参考苏敏“自由的透气”之旅[2]()）。",
   "best_quote_en": "\"Solo travel rewires your perception of independence – it's not just about seeing new places, but discovering uncharted versions of yourself.\"",
   "best_quote_zh": "“独自旅行重构你对独立的认知——不仅是探索新地域，更是发现未知的自我。”（源自澎湃新闻对女性独行者的心理学解读[2]()）"
-}  
+},
+{
+  "id": 3,
+  "title": "What Makes an AI Teammate Truly Intelligent?",
+  "title_zh": "真正智能的AI队友应具备哪些特质？",
+  "source": "Psychology Today",
+  "link": "https://www.psychologytoday.com/sg/blog/in-one-lifespan/202508/what-makes-an-ai-teammate-truly-intelligent", 
+  "tags": ["Artificial Intelligence", "Psychology", "Team Dynamics"],
+  "tags_zh": ["人工智能", "心理学", "团队协作"],
+  "date": "2025-08-01",
+  "summary_en": "This article explores the psychological dimensions of effective AI-human collaboration, arguing that true intelligence in AI teammates requires emotional attunement, contextual adaptability, and ethical decision-making capabilities beyond technical proficiency. It analyzes case studies of AI failures in team settings and proposes a framework for 'relational intelligence'.",
+  "summary_zh": "本文探讨高效人机协作的心理维度，提出真正智能的AI队友需超越技术能力，具备情感共鸣、情境适应性和道德决策力。通过分析团队环境中AI失败的案例，提出了'关系智能'评估框架。",
+  "best_quote_en": "\"The hallmark of a truly intelligent AI teammate is not its ability to process data, but its capacity to recognize when human emotions require slowing down the algorithm.\"",
+  "best_quote_zh": "“真正智能的AI队友标志，不在于数据处理能力，而在于识别人类情感何时需要放缓算法节奏的洞察力。”"
+}
 ]
