@@ -138,7 +138,7 @@
     "summary_zh": "记录一个持续15年的个人实验，展现普通人如何通过长期观察让平凡生活沉淀出非凡意义。",
     "best_quote_en": "Time turns diaries into archives, and routines into revelations.",
     "best_quote_zh": "时间会让日记变成档案，让日常变成启示。
-        },
+ },
         {
     "id": 3,
     "title": "Moderate Self-Disclosure Can Be a Good Thing",
@@ -152,5 +152,19 @@
     "summary_zh": "探讨适当自我暴露在建立信任和深化关系中的心理益处，同时保持健康界限。",
     "best_quote_en": "Vulnerability, when measured, becomes a bridge rather than a wound.",
     "best_quote_zh": "适度的脆弱性不是伤口，而是桥梁。"
+},
+    {
+    "id": 4,
+    "title": "Who Is a True Friend",
+    "title_zh": "谁是真正的朋友",
+    "source": "演讲与口才网",
+    "link": "https://www.koucai.com/Item/4525.aspx",
+    "tags": ["人际关系", "友情", "沟通艺术"],
+    "tags_zh": ["人际关系", "友情", "沟通艺术"],
+    "date": "2024-11-07",
+    "summary_en": "A profound analysis of true friendship from the perspective of communication arts, revealing how authentic connections are built through sincere dialogue and mutual understanding.",
+    "summary_zh": "从沟通艺术角度剖析真正友谊的本质，揭示如何通过真诚对话和相互理解建立深厚连接。",
+    "best_quote_en": "The language of true friendship isn't spoken with words, but woven through consistent actions and emotional resonance.",
+    "best_quote_zh": "真友谊的语言不在于言辞，而在于持之以恒的行动和情感共鸣。"
 }
 ]
