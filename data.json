@@ -124,5 +124,33 @@
     "summary_zh": "深度探讨游戏大厂外派员工面临的困境，包括职业消耗与企业利益计算问题。",
     "best_quote_en": "Expatriation is not just about relocation—it's about being a disposable asset in the corporate machine.",
     "best_quote_zh": "外派不仅是地理迁移，更是成为企业机器中的可消耗品。"
+},
+    {
+    "id": 2,
+    "title": "Fifteen Years: An Ordinary Person's Recording Experiment",
+    "title_zh": "十五年，一个普通人的记录实验",
+    "source": "微信公众号",
+    "link": "https://mp.weixin.qq.com/s/tm-fV0Cm7qKA9qzgu3WniQ",
+    "tags": ["个人成长", "长期主义", "社会观察"],
+    "tags_zh": ["个人成长", "长期主义", "社会观察"],
+    "date": "2025-02-09",
+    "summary_en": "A chronicle of a 15-year personal documentation project, revealing how ordinary lives can accumulate extraordinary meaning through persistent observation.",
+    "summary_zh": "记录一个持续15年的个人实验，展现普通人如何通过长期观察让平凡生活沉淀出非凡意义。",
+    "best_quote_en": "Time turns diaries into archives, and routines into revelations.",
+    "best_quote_zh": "时间会让日记变成档案，让日常变成启示。
+        },
+        {
+    "id": 3,
+    "title": "Moderate Self-Disclosure Can Be a Good Thing",
+    "title_zh": "适当的自我暴露，是一件好事",
+    "source": "微信公众号",
+    "link": "https://mp.weixin.qq.com/s/j-3wlaBGJcrdZKpjylbFAw",
+    "tags": ["心理学", "人际关系", "自我成长"],
+    "tags_zh": ["心理学", "人际关系", "自我成长"],
+    "date": "2025-09-13",
+    "summary_en": "Exploring the psychological benefits of appropriate self-disclosure in building trust and deepening relationships, while maintaining healthy boundaries.",
+    "summary_zh": "探讨适当自我暴露在建立信任和深化关系中的心理益处，同时保持健康界限。",
+    "best_quote_en": "Vulnerability, when measured, becomes a bridge rather than a wound.",
+    "best_quote_zh": "适度的脆弱性不是伤口，而是桥梁。"
 }
 ]
