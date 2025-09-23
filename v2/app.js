@@ -82,10 +82,10 @@ async function loadData() {
 function mountControls() {
     const lang = window.currentLang || 'zh';
 
-    //' 🔍 想接受什么宇宙能量？'
+    //' 🔍 优化后的搜索框提示文字 - 更友好,更直观'
     const placeholder = lang === 'zh'
-        ? '🔍 输入关键词搜索精彩内容...'
-        : '🔍 Enter keywords to search amazing content...';
+        ? '🔍 你能找到'
+        : '🔍 You can find';
 
     controlsEl.innerHTML = `
         <div class="controls">
