@@ -21,6 +21,7 @@ const urlParams = new URLSearchParams(location.search);
 window.currentLang = urlParams.get('lang') || 'zh';
 
 // 初始化应用
+// 初始化应用
 init();
 
 async function init() {
@@ -81,7 +82,7 @@ async function loadData() {
 function mountControls() {
     const lang = window.currentLang || 'zh';
 
-    // 🔍 优化后的搜索框提示文字 - 更友好、更直观
+    //' 🔍 想接受什么宇宙能量？'
     const placeholder = lang === 'zh'
         ? '🔍 输入关键词搜索精彩内容...'
         : '🔍 Enter keywords to search amazing content...';
