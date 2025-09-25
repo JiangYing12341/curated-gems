@@ -1501,4 +1501,19 @@
     "summary_zh": "这篇文章描绘了一个宏大的愿景：每周生产千兆瓦级AI基础设施，旨在实现“丰饶的智能”。作者大胆预言，充足的计算力将成为解决人类重大挑战的关键，从治愈癌症到个性化教育，一切皆有可能。这种对算力极限的突破，不仅是技术层面的跃进，更是一种哲学层面的宣言——不愿在重要问题上做取舍。文中提及在美国本土建设的决心，也让我思考这种技术竞赛背后的地缘政治考量，以及随之而来的伦理与治理挑战。",
     "best_quote_en": "If we are limited by compute, we’ll have to choose which one to prioritize; no one wants to make that choice, so let’s go build.",
     "best_quote_zh": "如果算力受限，我们将不得不选择优先处理哪一个；没有人愿意做出这样的选择，所以，让我们去建设吧。"
-  }]
+  }
+     {
+    "id": 4,
+    "title": "Who Is a True Friend",
+    "title_zh": "谁是真正的朋友",
+    "source": "演讲与口才网",
+    "link": "https://www.koucai.com/Item/4525.aspx",
+    "tags": ["人际关系", "友情", "沟通艺术"],
+    "tags_zh": ["人际关系", "友情", "沟通艺术"],
+    "date": "2024-11-07",
+    "summary_en": "A profound analysis of true friendship from the perspective of communication arts, revealing how authentic connections are built through sincere dialogue and mutual understanding.",
+    "summary_zh": "从沟通艺术角度剖析真正友谊的本质，揭示如何通过真诚对话和相互理解建立深厚连接。",
+    "best_quote_en": "The language of true friendship isn't spoken with words, but woven through consistent actions and emotional resonance.",
+    "best_quote_zh": "真友谊的语言不在于言辞，而在于持之以恒的行动和情感共鸣。"
+}
+]
