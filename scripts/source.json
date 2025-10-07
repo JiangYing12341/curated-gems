@@ -1,4 +1,12 @@
 [
+   {
+    "name": "36氪",
+    "url": "https://www.36kr.com/feed"
+  },
+   {
+    "name": "BBC 中文网",
+    "url": "https://feeds.feedburner.com/BBC_Chinese"
+  },
   {
     "name": "Women | The Guardian",
     "url": "http://theguardian.com/lifeandstyle/women/rss"
